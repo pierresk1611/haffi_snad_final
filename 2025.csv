@@ -1,0 +1,2 @@
+﻿ID_Objednavky,ID_Zakaznika,Email_Zakaznika,Telefon_Zakaznika,Datum,Cislo_Objednavky,Cena,ID_Zaznamu_Psa,ID_Mixu,ID_Rasy,Meno_Psa,Rasa,Receptura,Davka_Gramy,Hmotnost_Kg,Datum_Narodenia,Pohlavi,ID_Kondicie,ID_Aktivity,Je_Stene_Boolean,Pouzite_Vouchery,Poznamka_Zakaznika,Alergie
+233631,1,vyvojdrupal@voatt.cz,+420 777 777 777,2025-01-21 15:20:43,25349346,1128.00,233633,3,26,test,Airedale teriér,,144,,2020-09-21 15:08:27,,,,,,,0
